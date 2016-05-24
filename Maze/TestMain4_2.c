@@ -46,9 +46,6 @@ int main(void) {
 	DestroyMaze(&maze);
 	DestroyQueue(&Queue);
 
-
-
-
 	system("pause");
 	return 0;
 }
